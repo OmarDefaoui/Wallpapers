@@ -34,11 +34,6 @@ dependencies {
     implementation 'com.google.firebase:firebase-storage:19.1.0'
     implementation 'com.google.firebase:firebase-database:19.2.0'
     implementation 'com.google.firebase:firebase-auth:19.2.0'
-    //implementation 'com.google.firebase:firebase-firestore:16.0.0'
-
-    //drive
-    implementation 'com.google.android.gms:play-services-drive:17.0.0'
-    implementation 'com.google.android.gms:play-services-auth:17.0.0'
 
     implementation 'androidx.vectordrawable:vectordrawable:1.1.0'
     testImplementation 'junit:junit:4.12'
@@ -47,6 +42,7 @@ dependencies {
     implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
 apply plugin: 'com.google.gms.google-services'
+
 repositories {
     mavenCentral()
 }
