@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Wallpapers</string>
+    <string name="title_home">Accueil</string>
+    <string name="title_category">Catégories</string>
+    <string name="title_my_account">Profile</string>
+
+
+    //Main2Activity
+    <string name="subText">L\'application des fonds d\'écran la plus utile et avancée</string>
+    <string name="share_with">Partager avec:</string>
+
+    //CreateAccountActivity
+    <string name="requiered">Vide</string>
+    <string name="create_account">Créer un compte</string>
+    <string name="verification_mail_sent">L\'email de vérification a été envoyé à:</string>
+    <string name="faild_send_verification_mail">Echec de l\'envoie de l\'email de vérification</string>
+    <string name="email_sent_to">Email envoyé à:</string>
+    <string name="unable_send_reset_pass_mail">Echec de l\'envoie de l\'email de réinitialisation du mot de passe !</string>
+    <string name="create_account_success">Le compte a été créé avec succès</string>
+    <string name="verify_input_creation_account">Assurez vous d\'avoir bien entrer votre adresse email\nVerifier si le code n\'est pas assez court</string>
+    <string name="email">Email : </string>
+    <string name="name">Nom : </string>
+    <string name="sign_in">Se connecter</string>
+    <string name="please_wait">Chargement en cours...</string>
+    <string name="sign_up_success">Connecté avec succès</string>
+    <string name="sign_up_faild">Echec de la connexion</string>
+    activity_create_account
+    <string name="account">Compte</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="description">Description</string>
+    <string name="email_hint">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="forgot_password">Mot de passe oublié</string>
+    <string name="verify_email">Verifier l\'email</string>
+    <string name="account_informations">Informations sur le compte:</string>
+    <string name="make_donation">Faire un don</string>
+    <string name="fb_profile">Ma page facebook</string>
+    <string name="more">Plus d\'apps</string>
+    <string name="share">Partager l\'app</string>
+    <string name="sign_out">Se déconnecter</string>
+    <string name="folowed">Suivi</string>
+    <string name="suivre">Suivre</string>
+    <string name="folowers">suiveurs</string>
+    <string name="posts">Postes</string>
+    <string name="error">Erreur</string>
+    <string name="add_wallpaper">Ajouter un wallpaper</string>
+    <string name="publications">Publications:</string>
+    <string name="set_wallpaper_for">Fond d\'écran pour:</string>
+    <string name="home_screen">Ecran d\'acceuil</string>
+    <string name="lock_screen">Ecran verouillé</string>
+    <string name="both">Les deux</string>
+    <string name="wallpaper_changed">Wallpaper changé avec succès</string>
+    <string name="set_wallpaper">Appliquer le wallpaper</string>
+    <string name="click_on_load_firstly">Veuillez cliquer sur load avant de publier le wallpaper</string>
+    <string name="submit_valid_description">Description invalide, veuillez réessayer</string>
+    <string name="published_success">Publiée avec succès !</string>
+    <string name="url_filed_empty">Veuillez entrer un URL</string>
+    <string name="url_not_valid">URL invalide, veuillez réessayer</string>
+    <string name="how">Guide</string>
+    <string name="ok">OK</string>
+    <string name="wallpaper_url">L\'URL du wallpaper</string>
+    <string name="image_description">Description de l\'image</string>
+    <string name="publish">Publier</string>
+    <string name="more_info">Plus d\'infos</string>
+    <string name="rate">Evaluer l\'app</string>
+    <string name="voila_comment">Vous devez saisir l\'url du wallpaper, pour l\'obtenir, uploader l\'image dans votre cloud préféré, ou même dans l\'un de vos réseau sociaux, puis coller le lien partageable dans le champs correspondant.\n\nSi vous rencontrez des problème, clicker sur plus d\'options pour s\'informer d\'avantage.</string>
+    <string name="published_by">Publié par:</string>
+
+    //CategoryFragment
+    <string name="no_internet">Pas d\'internet</string>
+</resources>

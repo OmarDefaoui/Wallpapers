@@ -1,0 +1,84 @@
+<resources>
+
+    <string name="app_name">Wallpapers</string>
+
+    //navigation_menu.xml
+    <string name="title_home">Home</string>
+    <string name="title_category">Categories</string>
+    <string name="title_my_account">Profile</string>
+    //main_menu.xml
+    <string name="share">Share app</string>
+    <string name="more">More apps</string>
+    <string name="rate">Rate app</string>
+    <string name="fb_profile">My facebook page</string>
+    <string name="make_donation">Make a donation</string>
+
+    //Main2Activity
+    <string name="subText">The wallpapers app the most useful and advanced</string>
+    <string name="share_with">Share withh:</string>
+
+    //CreateAccountActivity
+    <string name="requiered">Empty</string>
+    <string name="create_account">Create an account</string>
+    <string name="verification_mail_sent">The verification email has been sent to:</string>
+    <string name="faild_send_verification_mail">Failed to send verification email</string>
+    <string name="email_sent_to">Email sent to:</string>
+    <string name="unable_send_reset_pass_mail">Failed to send the password reset email !</string>
+    <string name="create_account_success">Le compte a été créé avec succès</string>
+    <string name="verify_input_creation_account">Make sure you enter a valid email address\nCheck if the code is not short enough</string>
+    <string name="email">Email :</string>
+    <string name="name">"Name : "</string>
+    <string name="sign_in">Log in</string>
+    <string name="please_wait">Loading...</string>
+    <string name="sign_up_faild">Connection failed</string>
+    activity_create_account
+    <string name="account">Account</string>
+    <string name="username">Username</string>
+    <string name="description">Description</string>
+    <string name="email_hint">Email</string>
+    <string name="password">Password</string>
+    <string name="account_informations">Account Informations:</string>
+    <string name="forgot_password">Forgot your password</string>
+    <string name="verify_email">Verify email</string>
+    <string name="sign_out">Sign out</string>
+
+    //MyProfileFragment
+    <string name="folowed">Folowed</string>
+    <string name="suivre">Follow</string>
+    <string name="folowers">Folowers</string>
+    <string name="posts">posts</string>
+    <string name="error">Error</string>
+    //fragment_myprofile.xml
+    <string name="add_wallpaper">Add a wallpaper</string>
+    <string name="publications">Publications:</string>
+
+    //ImageFragment
+    <string name="set_wallpaper_for">Set wallpaper for:</string>
+    <string name="home_screen">Home screen</string>
+    <string name="lock_screen">Lock screen</string>
+    <string name="both">Both</string>
+    <string name="wallpaper_changed">Wallpaper successfully changed</string>
+    <string name="published_by">Published by:</string>
+    //fragment_image_preview.xml
+    <string name="set_wallpaper">Apply the wallpaper</string>
+
+    //AddWallpaper
+    <string name="click_on_load_firstly">Please click on load before publishing the wallpaper</string>
+    <string name="submit_valid_description">Invalid description, please try again</string>
+    <string name="published_success">Published successfully!</string>
+    <string name="url_filed_empty">Please enter an URL</string>
+    <string name="url_not_valid">Invalid URL, please try again</string>
+    <string name="how">Guide</string>
+    <string name="voila_comment">You must enter the url of the wallpaper, to get it, upload the image to your favorite cloud, or even in one of your social networks, then paste the shareable link in the corresponding field.\n\nIf you\'re having trouble, click on more options to learn more.</string>
+    <string name="ok">OK</string>
+    <string name="more_info">More informations</string>
+    //fragment_add_wallpaper.xml
+    <string name="wallpaper_url">The wallpaper URL</string>
+    <string name="image_description">Image description</string>
+    <string name="publish">Publish</string>
+    <string name="sign_up_success">Connected successfully</string>
+
+    //CategoryFragment
+    <string name="no_internet">No internet connexion</string>
+
+</resources>
